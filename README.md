@@ -1,7 +1,7 @@
 # para-el-viernes
 # Customer Order Management System (COMS)
 
-## Team: Clan Uzumaki
+## Team: AXION
 **Authors:** [sebastian mendoza / fernanado santos  y jenrry monsalve]
 **Course:** Python Programming - Riwi
 
