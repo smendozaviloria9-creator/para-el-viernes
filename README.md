@@ -2,7 +2,7 @@
 # Customer Order Management System (COMS)
 
 ## Team: AXION
-**Authors:** [sebastian mendoza / fernanado santos  y jenrry monsalve]
+**Authors:** [sebastian mendoza / fernando santos  y jenrry monsalve]
 **Course:** Python Programming - Riwi
 
 ---
@@ -30,4 +30,6 @@ To ensure high-quality coding standards and data integrity, the project follows 
 * **Modular Programming:** The code is organized into reusable functions. Each function is designed to receive parameters and return data, avoiding "side-effect" only functions.
 * **Language:** Both the source code (variables, functions, comments) and documentation are written entirely in **English**.
 * **Project Management:** Developed using **Agile practices** and tracked via **Azure DevOps**.
-
+How to Run
+1. Ensure you have Python 3.x installed.
+2. Clone this repository
