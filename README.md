@@ -31,8 +31,3 @@ To ensure high-quality coding standards and data integrity, the project follows 
 * **Language:** Both the source code (variables, functions, comments) and documentation are written entirely in **English**.
 * **Project Management:** Developed using **Agile practices** and tracked via **Azure DevOps**.
 
-##  How to Run
-1. Ensure you have Python 3.x installed.
-2. Clone this repository:
-   ```bash
-   git clone [https://github.com/](https://github.com/)[your-username]/[repository-name].git
